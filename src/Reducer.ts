@@ -9,13 +9,7 @@ const initialState = {
       id: 0,
     },
   },
-  list: [
-    {
-      title: "test",
-      content: "1234",
-      id: 0,
-    },
-  ],
+  list: [],
   active: -1,
 };
 
