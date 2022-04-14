@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TODO-neumorphism/static/css/main.7996dddd.css",
-    "main.js": "/TODO-neumorphism/static/js/main.b252bb7a.js",
+    "main.js": "/TODO-neumorphism/static/js/main.388cc68b.js",
     "static/js/787.34d05ddd.chunk.js": "/TODO-neumorphism/static/js/787.34d05ddd.chunk.js",
     "index.html": "/TODO-neumorphism/index.html",
     "main.7996dddd.css.map": "/TODO-neumorphism/static/css/main.7996dddd.css.map",
-    "main.b252bb7a.js.map": "/TODO-neumorphism/static/js/main.b252bb7a.js.map",
+    "main.388cc68b.js.map": "/TODO-neumorphism/static/js/main.388cc68b.js.map",
     "787.34d05ddd.chunk.js.map": "/TODO-neumorphism/static/js/787.34d05ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7996dddd.css",
-    "static/js/main.b252bb7a.js"
+    "static/js/main.388cc68b.js"
   ]
 }
